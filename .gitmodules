@@ -13,4 +13,5 @@
 	branch = master
 [submodule "dsymbol"]
 	path = dsymbol
-	url = https://github.com/Hackerpilot/dsymbol.git
+	url = https://github.com/weka-io/dsymbol.git
+	branch = dont-read-directories-as-files
